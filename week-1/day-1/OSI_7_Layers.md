@@ -68,3 +68,5 @@
 - Each layer communicates with its peer layer.
 
 ![OSI 7 Layers](images/osi_7_layers.png 'OSI 7 Layers')
+
+![Layers 3 Communication](images/osi_7_layers_communication.png 'Layers communication beetween networks')
