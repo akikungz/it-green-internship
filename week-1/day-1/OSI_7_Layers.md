@@ -12,7 +12,13 @@
 ### Layer 1 - Physical Layer
 - Carry a bit stream (0 and 1) over a physical medium.
 - Physical medium (Electrical, Optical, Radio Frequency)
+  - Electrical: Copper, Coaxial, Twisted Pair
+  - Optical: Fiber
+  - Radio Frequency: Wireless, Satellite
 - Simplex, Half Duplex, Full Duplex
+  - Simplex: One-way communication (TV, Radio)
+  - Half Duplex: Two-way communication but not simultaneously (Walkie-Talkie)
+  - Full Duplex: Two-way communication simultaneously (Mobile Phone)
 
 ### Layer 2 - Data Link Layer
 - Data in this layer is called Frames.
@@ -23,8 +29,15 @@
 ### Layer 3 - Network Layer
 - Data in this layer is called Packets.
 - Logical Addressing (IPv4 - 32 bits, IPv6 - 128 bits)
+  - IPv4
+    - 32 bits address
+    - 4 octets (8 bits each)
+  - IPv6
+    - 128 bits address
+    - 8 groups of 4 hexadecimal digits
 - Routing (Selecting best path for data transmission)
 - Fragmentation (Breaking large packets into smaller packets)
+  - MTU (Maximum Transmission Unit)
 - Inter-Networking (Connecting multiple networks)
 
 ### Layer 4 - Transport Layer
