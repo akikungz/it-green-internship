@@ -54,4 +54,4 @@
 - Each layer adds and removes its own header and footer.
 - Each layer communicates with its peer layer.
 
-![OSI 7 Layers]('images/osi-7-layers.png' 'OSI 7 Layers')
+![OSI 7 Layers](images/osi-7-layers.png 'OSI 7 Layers')
