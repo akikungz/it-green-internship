@@ -69,4 +69,6 @@
 
 ![OSI 7 Layers](images/osi_7_layers.png 'OSI 7 Layers')
 
-![Layers 3 Communication](images/osi_7_layers_communication.png 'Layers communication beetween networks')
+![Hop to Hop](images/hop_to_hop.png 'Hop to Hop')
+
+![Source to Destination](images/source_to_destination.png 'Source to Destination')
